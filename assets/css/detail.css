@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Mooli&display=swap');
+
+
+body{
+    background-color: #000000;
+}
+
+
+.head-detail{
+
+    background-image: linear-gradient(135deg, rgb(247, 97, 161) 10%, rgb(140, 27, 171) 100%); 
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
